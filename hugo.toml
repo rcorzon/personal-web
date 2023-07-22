@@ -9,4 +9,5 @@ theme = 'hugo-theme'
     layout = "custom-layout"
     [author.social]
         github = "rcorzon"
+        stackoverflow = "7913036"
         linkedin = "rubencorzon"

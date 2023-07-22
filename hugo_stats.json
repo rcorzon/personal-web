@@ -121,6 +121,7 @@
       "fa-palette",
       "fa-redo-alt",
       "fa-rss",
+      "fa-stack-overflow",
       "fa-sun",
       "fa-th-large",
       "fa-twitter",
@@ -197,6 +198,7 @@
       "palette",
       "palette-dropdown-menu",
       "pb-0",
+      "pe-1",
       "position-fixed",
       "position-relative",
       "post",
@@ -210,7 +212,9 @@
       "post-panel-wrapper",
       "post-reading-time",
       "post-summary",
+      "post-tag",
       "post-taxonomy",
+      "post-taxonomy-sm",
       "post-title",
       "posts",
       "posts-toggle",
@@ -226,6 +230,7 @@
       "px-3",
       "px-4",
       "px-xxl-1",
+      "py-0",
       "py-1",
       "py-2",
       "py-3",
@@ -269,6 +274,7 @@
       "w-100"
     ],
     "ids": [
+      "conclusions",
       "modeDropdown",
       "modeIcon",
       "my-first-post",
@@ -300,7 +306,9 @@
       "sidebarToggler",
       "taxonomies-toggle",
       "taxonomyArchives",
-      "taxonomyArchivesTab"
+      "taxonomyArchivesTab",
+      "taxonomyTags",
+      "taxonomyTagsTab"
     ]
   }
 }
