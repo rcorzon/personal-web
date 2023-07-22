@@ -1,4 +1,9 @@
+build.writeStats = true
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Rubén Corzón Villar'
+title = 'Just my stuff'
 theme = 'hugo-theme'
+[author]
+  name = "Rubén Corzón Villar"
+  [author.params]
+    layout = "custom-layout"
