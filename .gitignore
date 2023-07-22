@@ -131,6 +131,6 @@ dist
 
 
 # Custom
-assets
-public/assets/*
-resources
+assets/
+public/
+resources/
