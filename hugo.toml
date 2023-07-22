@@ -7,3 +7,5 @@ theme = 'hugo-theme'
   name = "Rubén Corzón Villar"
   [author.params]
     layout = "custom-layout"
+    [author.social]
+        test = "www.test.com"
