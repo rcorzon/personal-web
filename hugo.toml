@@ -8,4 +8,5 @@ theme = 'hugo-theme'
   [author.params]
     layout = "custom-layout"
     [author.social]
-        test = "www.test.com"
+        github = "rcorzon"
+        linkedin = "rubencorzon"
