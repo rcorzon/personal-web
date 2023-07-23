@@ -1,6 +1,7 @@
 build.writeStats = true
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+#languageCode = 'en-us'
+languageCode = 'es-ES'
 title = 'Just my stuff'
 theme = 'hugo-theme'
 [author]
@@ -11,3 +12,12 @@ theme = 'hugo-theme'
         github = "rcorzon"
         stackoverflow = "7913036"
         linkedin = "rubencorzon"
+[social]
+    github = "rcorzon"
+    stackoverflow = "7913036"
+    linkedin = "rubencorzon"
+[Params]
+    comment = false
+    [Params.post]
+        panel = false   # Hiding inferior menu
+        copyright = false
