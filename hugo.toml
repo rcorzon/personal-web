@@ -1,5 +1,5 @@
 build.writeStats = true
-baseURL = 'http://example.org/'
+baseURL = 'https://rcorzon.github.io/'
 #languageCode = 'en-us'
 languageCode = 'es-ES'
 title = 'Just my stuff'
