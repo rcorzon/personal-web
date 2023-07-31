@@ -134,3 +134,4 @@ dist
 assets/
 public/
 resources/
+.vscode/
