@@ -6,6 +6,7 @@ title = 'Just my stuff'
 theme = 'hugo-theme'
 [author]
   name = "Rubén Corzón Villar"
+  bio = "Full Stack Developer focused on Microsoft technologies. Azure Certified"
   [author.params]
     layout = "custom-layout"
     [author.social]
