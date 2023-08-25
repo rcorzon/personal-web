@@ -12,8 +12,8 @@ defaultContentLanguageInSubdir = true
     languageName = 'Español'
     title = 'Just my stuff'
     weight = 1
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
+    [languages.es.params]
+      #subtitle = 'Referenz, Tutorials und Erklärungen'
   [languages.en]
     contentDir = 'content/en'
     disabled = false
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = true
     title = 'Project Documentation'
     weight = 2
     [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+      #subtitle = 'Reference, Tutorials, and Explanations'
 [author]
   name = "Rubén Corzón Villar"
   bio = "Full Stack Developer focused on Microsoft technologies. Azure Certified"
