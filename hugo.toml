@@ -1,9 +1,29 @@
 build.writeStats = true
 baseURL = 'https://rcorzon.github.io/'
-#languageCode = 'en-us'
-languageCode = 'es-ES'
 title = 'Just my stuff'
 theme = 'hugo-theme'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es-Es'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    title = 'Just my stuff'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Referenz, Tutorials und Erklärungen'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
 [author]
   name = "Rubén Corzón Villar"
   bio = "Full Stack Developer focused on Microsoft technologies. Azure Certified"
