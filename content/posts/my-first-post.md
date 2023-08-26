@@ -1,7 +1,7 @@
 ---
 title: "Testing first post"
 date: 2023-07-21T00:15:11+02:00
-draft: false
+draft: true
 tags:
     - test
     - newbie

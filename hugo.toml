@@ -5,31 +5,32 @@ theme = 'hugo-theme'
 defaultContentLanguageInSubdir = true
 [languages]
   [languages.es]
-    contentDir = 'content/es'
     disabled = false
     languageCode = 'es-Es'
     languageDirection = 'ltr'
     languageName = 'Español'
-    title = 'Just my stuff'
     weight = 1
-    [languages.es.params]
-      #subtitle = 'Referenz, Tutorials und Erklärungen'
+    [languages.es.author]
+      name = "Rubén Corzón Villar"
+      bio = "Desarrollador Full Stack en tecnologías de Microsoft. Certificado en Azure"
+        [language.es.author.params]
+        layout = "custom-layout"
+        [languages.es.author.social]
+          github = "rcorzon"
+          stackoverflow = "7913036"
+          linkedin = "rubencorzon"
   [languages.en]
-    contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Project Documentation'
     weight = 2
-    [languages.en.params]
-      #subtitle = 'Reference, Tutorials, and Explanations'
-[author]
-  name = "Rubén Corzón Villar"
-  bio = "Full Stack Developer focused on Microsoft technologies. Azure Certified"
-  [author.params]
-    layout = "custom-layout"
-    [author.social]
+    [languages.en.author]
+      name = "Rubén Corzón Villar"
+      bio = "Full Stack Developer focused on Microsoft technologies. Azure Certified"
+      [language.en.author.params]
+      layout = "custom-layout"
+      [languages.en.author.social]
         github = "rcorzon"
         stackoverflow = "7913036"
         linkedin = "rubencorzon"
