@@ -157,7 +157,6 @@
       "language-dropdown-menu",
       "left-0",
       "list-unstyled",
-      "logo",
       "mb-1",
       "mb-2",
       "mb-3",
@@ -211,6 +210,7 @@
       "palette",
       "palette-dropdown-menu",
       "pb-0",
+      "pe-1",
       "position-absolute",
       "position-relative",
       "post",
@@ -220,7 +220,9 @@
       "post-meta",
       "post-reading-time",
       "post-summary",
+      "post-tag",
       "post-taxonomy",
+      "post-taxonomy-sm",
       "post-title",
       "posts",
       "posts-toggle",
@@ -237,6 +239,7 @@
       "px-2",
       "px-4",
       "px-xxl-1",
+      "py-0",
       "py-1",
       "py-2",
       "py-3",
@@ -286,7 +289,9 @@
       "w-100"
     ],
     "ids": [
+      "bienvenido",
       "english-post",
+      "hello",
       "languageDropdown",
       "modeDropdown",
       "modeIcon",
@@ -316,7 +321,9 @@
       "recent-posts-tab",
       "taxonomies-toggle",
       "taxonomyArchives",
-      "taxonomyArchivesTab"
+      "taxonomyArchivesTab",
+      "taxonomyTags",
+      "taxonomyTagsTab"
     ]
   }
 }
